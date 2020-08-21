@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://www.linkedin.com/in/mmalishev/detail/background-image/" width="100%" height="300" >
+	<img src="https://media-exp1.licdn.com/dms/image/C4E16AQH6yL6_EmGMcQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=l4O1jYQZ344gHP0xSJfvIBlo763QtE9M7g_Imb9wYX4" width="100%" height="300" >
 </div>
 
 
