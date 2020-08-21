@@ -1,17 +1,35 @@
 <div align="center">
-	<img src="https://media-exp1.licdn.com/dms/image/C4E16AQH6yL6_EmGMcQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=l4O1jYQZ344gHP0xSJfvIBlo763QtE9M7g_Imb9wYX4" width="100%" height="300" >
+	<img src="https://media-exp1.licdn.com/dms/image/C4E16AQH6yL6_EmGMcQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=l4O1jYQZ344gHP0xSJfvIBlo763QtE9M7g_Imb9wYX4" width="100%" height="200" >
 </div>
 
-
+<br>
+<br>  
 
 <div align="center">
-	<img src="https://github.com/darwinanddavis/DataPortfolio/raw/gh-pages/img/mm.png" width="300" height="300" >
-	<h2>Data analysis, models, maps</h2>
+	<h1>Data analysis, models, maps</h1>
 </div>
 
 I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
 
 I’m a computational modeller at Emory University working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling with large geolocation and environmental data.               
+
+<br>
+
+<div align="center">
+<h3>My sandbox</h3>
+<p>
+	<img alt="R" src="https://img.shields.io/badge/-R-3881D0?style=flat-square&logo=r&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/-python-366C9C?style=flat-square&logo=python&logoColor=white" />
+	<img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="Unix" src="https://img.shields.io/badge/-Unix-FFFFFF?style=flat-square&logo=unix&logoColor=white" />
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-32648D?style=flat-square&logo=postgresql&logoColor=white" />
+	<img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white" />
+	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-CEB32F?style=flat-square&logo=Javascript&logoColor=white" />
+  	<img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+	<img alt="XML" src="https://img.shields.io/badge/-XML-F5A35D?style=flat-square&logo=xml&logoColor=white" />
+</p>
+</div>
 
 <br>   
   
