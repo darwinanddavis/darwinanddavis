@@ -1,8 +1,6 @@
 <div align="center">
 	<img src="https://github.com/darwinanddavis/DataPortfolio/raw/gh-pages/img/mm.png" width="300" height="300" >
-	<h3 style="color: #FF7E7E">
-		Data analysis, models, maps
-	</h3>
+	<h2 style="color:#FF7E7E">Data analysis, models, maps</h2>
 </div>
 
 ### I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
@@ -15,15 +13,17 @@
 
 <br>  
 
-<h3 style="color: #FF7E7E;">
-	Latest post  
-</h3>     
+<div align="center">
+	<h2 style="color:#FF7E7E">Latest post</h2>
+</div>
 
 _Last updated: 2020-08-14 12:10:11 AEST_                 
 
 Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
-### [COVID19 coronavirus global distribution map](./spatial.md)           
+<h2 style="color:#FF7E7E"> Latest post
+	<a href="https://darwinanddavis.github.io/DataPortfolio/spatial/">COVID19 coronavirus global distribution map</a>
+</h2>
 
 <br>   
   
@@ -32,21 +32,15 @@ Interactive map of COVID19 coronavirus global distribution using live webscraped
 <br>   
 
 <div align="center">
-	<h3>Github stats</h3>
-	<a href="https://github.com/darwinanddavis/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=darwinanddavis&show_icons=true"/>
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=darwinanddavis&hide_langs_below=5'/>
-	
-</div>
-
-<div align="center">
+	<h2 style="color:#FF7E7E">Github stats</h2>
 	<img src='https://github-readme-stats.vercel.app/api?username=darwinanddavis&show_icons=true&count_private=true'/>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=darwinanddavis&hide_langs_below=4'/>
 </div>
 
 <br>
 
 <div align="center">
-	<h3>Digital footprint</h3>
+	<h2 style="color:#FF7E7E">Digital footprint</h2>
 	<p>
 		<a href="https://github.com/darwinanddavis" target="_blank">
 			<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
