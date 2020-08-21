@@ -16,18 +16,19 @@ I’m a computational modeller at Emory University working on diverse data analy
 <br>
 
 <div align="center">
-<h3>My sandbox</h3>
+	<h2>My sandbox</h2>
 <p>
-	<img alt="R" src="https://img.shields.io/badge/-R-3881D0?style=flat-square&logo=r&logoColor=white" />
-	<img alt="Python" src="https://img.shields.io/badge/-python-366C9C?style=flat-square&logo=python&logoColor=white" />
+	<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
 	<img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-	<img alt="Unix" src="https://img.shields.io/badge/-Unix-FFFFFF?style=flat-square&logo=unix&logoColor=white" />
-	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-32648D?style=flat-square&logo=postgresql&logoColor=white" />
-	<img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white" />
+	<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+	<img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
+	<img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
 	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-CEB32F?style=flat-square&logo=Javascript&logoColor=white" />
+  	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   	<img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-	<img alt="XML" src="https://img.shields.io/badge/-XML-F5A35D?style=flat-square&logo=xml&logoColor=white" />
 </p>
 </div>
 
