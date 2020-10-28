@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://media-exp1.licdn.com/dms/image/C4E16AQH6yL6_EmGMcQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=l4O1jYQZ344gHP0xSJfvIBlo763QtE9M7g_Imb9wYX4" width="100%" height="200" >
+	<img src="header.jpeg" width="100%" height="200" >
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 
 I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
 
-I’m a computational modeller at Emory University working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling with large geolocation and environmental data.               
+I’m a computational modeller working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling with large geolocation and environmental data.               
 
 <br>
 
@@ -42,12 +42,12 @@ I’m a computational modeller at Emory University working on diverse data analy
 	<h2>Latest post</h2>
 </div>
 
-_Last updated: 2020-08-14 12:10:11 AEST_                 
+_Last updated: 2020-10-28 12:23:14 AEDT_                 
 
-Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
+Interactive trivia site for the Netflix series DARK  
 
 <h3> 
-	<a href="https://darwinanddavis.github.io/DataPortfolio/spatial/">COVID19 coronavirus global distribution map</a>
+	<a href="https://darwinanddavis.github.io/misc/dark/#/section">Netflix DARK trivia</a>
 </h3>
 
 <br>   
