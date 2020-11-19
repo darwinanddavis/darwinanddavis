@@ -11,7 +11,8 @@
 
 I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
 
-I’m a computational modeller working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling with large geolocation and environmental data.               
+I’m a computational modeller using programming, mapping, and my own research tools to crack diverse data analysis problems, from simulation modelling of human disease risk to spatial risk mapping.            
+         
 
 <br>
 
@@ -44,7 +45,7 @@ I’m a computational modeller working on diverse data analysis problems from si
 
 _Last updated: 2020-10-28 12:23:14 AEDT_                 
 
-Interactive trivia site for the Netflix series DARK  
+A trivia site for the Netflix series DARK    
 
 <h3> 
 	<a href="https://darwinanddavis.github.io/misc/dark/#/section">Netflix DARK trivia</a>
