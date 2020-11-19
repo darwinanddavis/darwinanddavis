@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="header.jpeg" width="100%" height="200" >
+	<img src="img/header.jpeg" width="100%" height="200" >
 </div>
 
 <br>
@@ -49,6 +49,10 @@ Interactive trivia site for the Netflix series DARK
 <h3> 
 	<a href="https://darwinanddavis.github.io/misc/dark/#/section">Netflix DARK trivia</a>
 </h3>
+
+<div align="center">
+	<img src="img/dark.jpg" width="100%" height="100" >
+</div>
 
 <br>   
   
