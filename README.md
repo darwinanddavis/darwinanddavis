@@ -43,8 +43,6 @@ I’m a computational modeller using programming, mapping, and my own research t
 	<h2>Latest post</h2>
 </div>
 
-_Last updated: 2020-10-28 12:23:14 AEDT_                 
-
 A trivia site for the Netflix series DARK    
 
 <h3> 
