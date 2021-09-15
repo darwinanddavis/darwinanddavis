@@ -43,14 +43,16 @@ I’m a computational modeller using programming, mapping, and my own research t
 	<h2>Latest post</h2>
 </div>
 
-A trivia site for the Netflix series DARK    
+Dissecting Tokyo 2020 Olympics medal tally data. Analysis of individual medal count by country and medal count per event.  
+
+Tools: R, Rmd, HTML, CSS 
 
 <h3> 
-	<a href="https://darwinanddavis.github.io/misc/dark/#/section">Netflix DARK trivia</a>
+	<a href="https://darwinanddavis.github.io/misc/dark/#/section">Olympics medal tally </a>
 </h3>
 
 <div align="center">
-	<img src="img/dark.jpg" width="50%" height="100%" >
+	<img src="img/olympics.jpg" width="100%" height="100%" >
 </div>
 
 <br>   
