@@ -48,7 +48,7 @@ Dissecting Tokyo 2020 Olympics medal tally data. Analysis of individual medal co
 Tools: R, Rmd, HTML, CSS 
 
 <h3> 
-	<a href="https://darwinanddavis.github.io/misc/dark/#/section">Olympics medal tally </a>
+	<a href="https://github.com/darwinanddavis/misc/tree/gh-pages/olympics">Tokyo 2020 Olympics medal tally analysis</a>
 </h3>
 
 <div align="center">
