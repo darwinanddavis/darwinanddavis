@@ -43,16 +43,16 @@ I’m a computational modeller using programming, mapping, and my own research t
 	<h2>Latest post</h2>
 </div>
 
-Dissecting Tokyo 2020 Olympics medal tally data. Analysis of individual medal count by country and medal count per event.  
+Avian Airstrike: Aircraft-bird strikes across Australia (2008–2017)  
 
-Tools: R, Rmd, HTML, CSS 
+Tools: `R`, `Rmd`, `Mapbox`, `HTML`, `CSS`       
 
 <h3> 
-	<a href="https://github.com/darwinanddavis/misc/tree/gh-pages/olympics">Tokyo 2020 Olympics medal tally analysis</a>
+	<a href="https://github.com/darwinanddavis/infographics">Avian Airstrike: Aircraft-bird strikes across Australia (2008–2017)</a>  
 </h3>
 
 <div align="center">
-	<img src="img/olympics.jpg" width="100%" height="100%" >
+	<img src="https://github.com/darwinanddavis/DataPortfolio/raw/gh-pages/infographics/avianairstrike/avianairstrike1.jpg" width="50%" height="100%" >
 </div>
 
 <br>   
